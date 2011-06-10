@@ -47,7 +47,7 @@
     <Content Include="config.ru" />
     <Content Include="config\database.yml" />
     <Content Include="config\locales\en.yml" />
-    <Content Include="Gemfile" />
+    <Content Include="Gemfile.lock" />
     <Content Include="lib\tasks\.gitkeep" />
     <Content Include="log\development.log" />
     <Content Include="log\production.log" />
@@ -67,6 +67,7 @@
     <Content Include="public\javascripts\rails.js" />
     <Content Include="public\robots.txt" />
     <Content Include="public\stylesheets\.gitkeep" />
+    <Content Include="tmp\pids\server.pid" />
     <Content Include="vendor\plugins\.gitkeep" />
   </ItemGroup>
   <ItemGroup>
